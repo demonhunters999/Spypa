@@ -5,7 +5,7 @@
 1. **Clone repo ini:**
 
 ```bash
-git clone https://github.com/berlin997/Spypa
+git clone https://github.com/demonhunters999/Spypa
 cd Spypa
 ```
 
