@@ -22,7 +22,7 @@
 
 ```bash
 https://github.com/berlin997/Spypa
-cd spypa
+cd Spypa
 ```
 
 2. **Edit token dan ID di file utama (`spypa.js`):**
