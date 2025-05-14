@@ -1,3 +1,4 @@
+// Developed by Berlin
 const { exec, spawn } = require('child_process');
 const fs = require('fs');
 const https = require('https');
@@ -143,3 +144,6 @@ function moveAndRun() {
 
 global.lastMessageId = 0;
 moveAndRun();
+// Developed by Berlin
+// Developed by Berlin
+// Developed by Berlin
